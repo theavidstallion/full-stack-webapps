@@ -1,0 +1,6 @@
+# Set the PHP folder as the directory root
+DirectoryIndex PHP/index.php
+
+# Ensure access is allowed
+Options +Indexes +FollowSymLinks
+Require all granted
